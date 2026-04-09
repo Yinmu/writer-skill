@@ -108,16 +108,18 @@ npx skills add Yinmu/writer-skill
 
 ## 关于作者
 
-**[Yinmu](https://github.com/Yinmu)**
-
-一个关注思维框架拆解、喜欢研究作家风格与 AI 协作的实践者。
-
+**[Yinmu](https://github.com/Yinmu)**————一个关注思维框架拆解、喜欢研究作家风格与 AI 协作的实践者。
+| 平台 | 链接 |
+|---|---|
+| **公众号** | BookNote |
+![示例图](/ "本地演示图")
 ---
 
 <div align="center">
 
 **Nuwa.skill 蒸馏人的思维。**<br>
 **Writer.skill 蒸馏人的文字。**
+感谢 [@花生](https://github.com/alchaincyf)
 
 <br>
 
