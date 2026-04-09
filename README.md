@@ -1,13 +1,6 @@
-<div align="center">
-
 # Writer.skill
 
 > *「文字是作家的指纹。蒸馏它，是为了理解并复刻那种灵魂的节奏。」*
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
-
-<br>
 
 **Writer.skill 帮你蒸馏任何作家的写作灵魂，让海明威、鲁迅、余华、马尔克斯都成为你的专属文案教练。**
 
@@ -18,8 +11,6 @@
 <br>
 
 [效果示例](#效果示例) · [安装](#安装) · [它蒸馏了什么](#它蒸馏了什么) · [工作原理](#工作原理)
-
-</div>
 
 ---
 
@@ -33,8 +24,6 @@
             这叫什么？这叫“卷”。
             其实，不过是换了一种吃人的方式。
             坐在格子间，名为奋斗，实则是在向那无形的枷锁磕头。
-            这世上本没有路，走的人多了，也便成了内卷的路。
-            而看客们呢，却只在屏幕后打着哈哈，仿佛那颈上的绞索，是别人身上的装饰品。
 ```
 
 ```
@@ -43,8 +32,6 @@
 海明威    > 截止日期就在那里。那是一堵墙。我们必须撞过去。
             如果不撞过去，就没命了。
             没有如果，没有借口。
-            就像在海上捕鱼，要么带回大鱼，要么被大海吞没。
-            就是这样。
 ```
 
 ---
@@ -53,14 +40,6 @@
 
 ```bash
 npx skills add Yinmu/writer-skill
-```
-
-然后在 Claude Code 或 Hermes 中直接调用：
-
-```bash
-> 蒸馏鲁迅
-> 用海明威的风格重写我的工作周报
-> 切换到余华视角，改写这段关于“贫穷”的描述
 ```
 
 ---
@@ -87,13 +66,8 @@ npx skills add Yinmu/writer-skill
 
 ---
 
-<div align="center">
+## 关于作者
 
-**Nuwa.skill 蒸馏人的思维。**<br>
-**Writer.skill 蒸馏人的文字。**
+**[Yinmu](https://github.com/Yinmu)**
 
-<br>
-
-MIT License © [Yinmu](https://github.com/Yinmu)
-
-</div>
+MIT License © 2026
