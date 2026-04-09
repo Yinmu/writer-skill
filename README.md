@@ -1,6 +1,6 @@
 <div align="center">
 
-# Writer.skill
+# 作家.skill
 
 > *「文字是作家的指纹。蒸馏它，是为了理解并复刻那种灵魂的节奏。」*
 
@@ -108,12 +108,13 @@ npx skills add Yinmu/writer-skill
 
 ## 关于作者
 
-**[Yinmu](https://github.com/Yinmu)**————一个关注思维框架拆解、喜欢研究作家风格与 AI 协作的实践者。
+**[Yinmu](https://github.com/Yinmu)**————多年获客操盘手，希望用AI创开新时代的获客大门。
 | 平台 | 链接 |
 |---|---|
 | **公众号** | BookNote |
+<img src="clean_Gemini_Generated_Image_c9nnj4c9nnj4c9nn.png" width="35%">
 ---
-![示例图](/https://github.com/Yinmu/writer-skill/blob/main/clean_Gemini_Generated_Image_c9nnj4c9nnj4c9nn.png "本地演示图")
+
 <div align="center">
 
 **Nuwa.skill 蒸馏人的思维。**<br>
