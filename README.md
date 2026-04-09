@@ -18,7 +18,7 @@
 
 <br>
 
-[效果示例](#效果示例) · [安装](#安装) · [它蒸馏了什么](#它蒸馏了什么) · [工作原理](#工作原理)
+[效果示例](#效果示例) · [安装](#安装) · [它蒸馏了什么](#它蒸馏了什么) · [工作原理](#工作原理) · [关于作者](#关于作者)
 
 <br>
 
@@ -106,6 +106,14 @@ npx skills add Yinmu/writer-skill
 
 ---
 
+## 关于作者
+
+**[Yinmu](https://github.com/Yinmu)**
+
+一个关注思维框架拆解、喜欢研究作家风格与 AI 协作的实践者。
+
+---
+
 <div align="center">
 
 **Nuwa.skill 蒸馏人的思维。**<br>
@@ -113,6 +121,6 @@ npx skills add Yinmu/writer-skill
 
 <br>
 
-MIT License © [Yinmu](https://github.com/Yinmu)
+MIT License © 2026 [Yinmu](https://github.com/Yinmu)
 
 </div>
