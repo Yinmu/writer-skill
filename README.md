@@ -112,9 +112,8 @@ npx skills add Yinmu/writer-skill
 | 平台 | 链接 |
 |---|---|
 | **公众号** | BookNote |
-![示例图](/ "本地演示图")
 ---
-
+![示例图](/https://github.com/Yinmu/writer-skill/blob/main/clean_Gemini_Generated_Image_c9nnj4c9nnj4c9nn.png "本地演示图")
 <div align="center">
 
 **Nuwa.skill 蒸馏人的思维。**<br>
